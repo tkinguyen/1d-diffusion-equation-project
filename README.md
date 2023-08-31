@@ -2,7 +2,7 @@
 
 Hello, welcome to my final project about 1D Diffusion Equation!
 
-Here's how to work the program:
+<b> Here's how to work the program: </b>
 1. Open terminal
 2. Arrive to the directory my folder for this project is in (example: cd tnguyen_final)
 3. Type into terminal /bin/bash jobsfile
